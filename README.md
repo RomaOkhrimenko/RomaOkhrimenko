@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-Software engineer with 2+ years of experience. Open-minded, and ready to learn new technologies and areas. Favourite technologies Front-end: React, Redux , Scss or Tailwindcss; Back-end: Nodejs, Express;
+Software engineer with 2+ years of experience. Open-minded, and ready to learn new technologies and areas. 
+Favourite technologies 
+Front-end: React, Redux , Scss or Tailwindcss; 
+Back-end: Nodejs, Express, MongoDB;
 
 * 🌍  I'm based in Ukraine. Lutsk
 * ✉️  You can contact me at [roma.okhrimenko@gmail.com](mailto:roma.okhrimenko@gmail.com)
