@@ -11,7 +11,7 @@ Back-end: Nodejs, Express, MongoDB;
 
 * 🌍  I'm based in Ukraine. Lutsk
 * ✉️  You can contact me at [roma.okhrimenko@gmail.com](mailto:roma.okhrimenko@gmail.com)
-* 🧠  I'm learning React, React Native, GraphQ and Nest
+* 🧠  I'm learning React, React Native, GraphQl and Nest
 
 ### Skills
 
