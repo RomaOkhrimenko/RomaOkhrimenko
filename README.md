@@ -5,11 +5,11 @@ Fullstack Developer
 -----------------
 
 Front-end developer with 2+ years of experience. Open-minded, and ready to learn new technologies and areas.  <br />
-Favorite technologies:
+<b>Favorite technologies:</b>
 <br />
-Front-end: React, Redux, Scss, or Tailwindcss;
+<b>Front-end:</b> React, Redux, Scss, or Tailwindcss;
 <br />
-Back-end: Nodejs, Express, MongoDB or MySQL;
+<b>Back-end:</b> Nodejs, Express, MongoDB or MySQL;
 
 * 🌍  I'm based in Ukraine. Lutsk
 * ✉️  You can contact me at [roma.okhrimenko@gmail.com](mailto:roma.okhrimenko@gmail.com)
