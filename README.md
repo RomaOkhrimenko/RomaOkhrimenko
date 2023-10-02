@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roma Okhrimenko
 =======================================================================================================================================
 
-Fullstack Developer
+Front-end Developer
 -----------------
 
 Front-end developer with 2+ years of experience. Open-minded, and ready to learn new technologies and areas.  <br />
