@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -----------------
 
-Front-end developer with 2+ years of experience. Open-minded, and ready to learn new technologies and areas.  <br />
+Front-end developer with 4+ years of experience. Open-minded, and ready to learn new technologies and areas.  <br />
 <b>Favorite technologies:</b>
 <br />
-<b>Front-end:</b> React, Redux, Scss, or Tailwindcss;
+<b>Front-end:</b> React, Next, Vue, Nuxt;
 <br />
-<b>Back-end:</b> Nodejs, Express, MongoDB or MySQL;
+<b>Back-end:</b> Nodejs, Express, MongoDB;
 
 * 🌍  I'm based in Ukraine. Lutsk
 * ✉️  You can contact me at [roma.okhrimenko@gmail.com](mailto:roma.okhrimenko@gmail.com)
-* 🧠  I'm learning React, React Native, GraphQl and Nest
+* 🧠  I'm learning Astro, Nest
 
 ### Skills
 
